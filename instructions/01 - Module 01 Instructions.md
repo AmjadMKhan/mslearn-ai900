@@ -1,5 +1,5 @@
 # AI-900 Labs
-## 01 - Lab 01 Instructions
+## 01 - Module 01 Instructions
 In this lab we will be looking at guidelines for Responsible AI.
 
 ### Tasks

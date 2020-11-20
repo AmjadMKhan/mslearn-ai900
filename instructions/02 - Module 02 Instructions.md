@@ -1,5 +1,5 @@
 # AI-900 Labs
-## 02 - Lab 02 Instructions
+## 02 - Module 02 Instructions
 In this lab we will be looking at how to use automated machine learning in Azure Machine Learning.
 
 ### Tasks
