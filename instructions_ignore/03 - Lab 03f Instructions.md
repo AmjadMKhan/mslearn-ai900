@@ -1,6 +1,6 @@
 # AI-900 Labs
 ## 03 - Lab 03f Instructions
-In this lab we will be using the Form Recognizer service in Azure to identify text on forms based on images.
+In this lab we will be using the Form Recognizer service in Azure to identify text on from images of forms.
 
 ### Tasks
 1.	Start Visual Studio Code and open the ai-fundamentals project.

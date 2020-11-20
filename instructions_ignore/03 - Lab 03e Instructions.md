@@ -1,6 +1,6 @@
 # AI-900 Labs
 ## 03 - Lab 03e Instructions
-In this lab we will be using the Optical Character Recognition service in Azure to identify real-world items based on images.
+In this lab we will be using the Optical Character Recognition service in Azure to identify text in any image.
 
 ### Tasks
 1.	Start Visual Studio Code and open the ai-fundamentals project.
