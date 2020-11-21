@@ -4,5 +4,5 @@ In this lab we will create an application that can understand language.
 
 ### Tasks
 1.	Start Visual Studio Code and open the ai-fundamentals project.
-2.  In the **labs** folder, select the folder **04-natural-language-processing-labs**. Then open the **04d - Language Understanding.ipynb** notebook.
+2.  Open the **04d - Language Understanding.ipynb** notebook.
 3.  Follow the instructions in the notebook to complete the lab.
