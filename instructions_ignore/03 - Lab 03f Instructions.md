@@ -3,6 +3,5 @@
 In this lab we will be using the Form Recognizer service in Azure to identify text on from images of forms.
 
 ### Tasks
-1.	Start Visual Studio Code and open the ai-fundamentals project.
-2.  Open the **03f - Receipts with Form Recognizer.ipynb** notebook.
-3.  Follow the instructions in the notebook to complete the lab.
+1.  Open the **03f - Receipts with Form Recognizer.ipynb** notebook.
+2.  Follow the instructions in the notebook to complete the lab.
